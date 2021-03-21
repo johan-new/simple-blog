@@ -1,3 +1,2 @@
-# simple-guestbook
-A tribute to the 90s'. Simple Guestbook service for self hosting.
-* Automatic temporary ban to prevent misuse (IP addresses are not persisted)
+# Simple Blog
+Ambitions are simple; a blog for selfhosting, storing data in a file on disk. Publish, delete and receive comments. Thats it!
